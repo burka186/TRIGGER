@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<noise_objects>
+    <noise id="0">
+        <string>Hey beautiful</string>
+    </noise>
+    <noise id="1">
+        <string>Say thank you</string>
+      </noise>
+    <noise id="2">
+        <string>Smile!</string>
+    </noise>
+    <noise id="3">
+        <string>What's wrong, princess?</string>
+     </noise>
+    <noise id="4">
+        <string>Hysterical</string>
+    </noise>
+    <noise id="5">
+        <string>Asking for it</string>
+    </noise>
+    <noise id="6">
+        <string>Liar</string>
+    </noise>
+    <noise id="7">
+        <string>Whore</string>
+    </noise>
+    <noise id="8">
+        <string>Emotional</string>
+    </noise>
+    <noise id="9">
+        <string>Cunt</string>
+    </noise>
+    <noise id="10">
+        <string>Crazy bitch</string>
+    </noise>
+    <noise id="11">
+        <string>It</string>
+    </noise>
+</noise_objects>

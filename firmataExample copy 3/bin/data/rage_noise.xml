@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<noise_objects>
+    <noise id="0">
+        <string>What were you wearing?</string>
+    </noise>
+    <noise id="1">
+        <string>You should say thank you</string>
+      </noise>
+    <noise id="2">
+        <string>Smile!</string>
+    </noise>
+    <noise id="3">
+        <string>What's wrong, princess?</string>
+     </noise>
+    <noise id="4">
+        <string>Hysterical feminist</string>
+    </noise>
+    <noise id="5">
+        <string>You were asking for it</string>
+    </noise>
+    <noise id="6">
+        <string>But most rape reports are false</string>
+    </noise>
+    <noise id="7">
+        <string>You have a good body, but it could be better</string>
+    </noise>
+    <noise id="8">
+        <string>Don't be so emotional</string>
+    </noise>
+    <noise id="9">
+        <string>Cunt</string>
+    </noise>
+    <noise id="10">
+        <string>Crazy bitch</string>
+    </noise>
+    <noise id="11">
+        <string>You're probably just on your period</string>
+    </noise>
+</noise_objects>
